@@ -1,0 +1,17 @@
+{
+  "name": "simhash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simhash.js",
+  "dependencies": {
+    "bitset": "^5.0.5",
+    "compute-hamming": "^1.1.0",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
